@@ -26,6 +26,8 @@
         <img src="https://github-profile-trophy.vercel.app/?username=guruprasath-v&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" width="84%" />
     </a>
 </div>
+
+<br />
 <br />
 
 <img src="https://media.giphy.com/media/eoNi8UexSeHwzW98B3/giphy.gif?cid=ecf05e47odylb1e9zd5cdsu53wxudns166oqpomcd95xld2g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">&nbsp;***Blogs***
