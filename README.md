@@ -19,7 +19,6 @@
 <br /> <a href="mailto:guruprasathv.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a> <a href="https://www.linkedin.com/in/guruprasath-vijaykumar/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" /></a> <a href="https://www.reddit.com/user/Guruprasath-v/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=violet&color=black" /></a>
 <br />
 <br />
-<br />
 
 <!-- Profile Trophies -->
 <div align="center">
@@ -38,10 +37,10 @@
 *Some of my writings may sound interesting to you:*
 <div style="display: flex; gap: 30px;">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 400px; height: 90px;" />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 300px; height: 80px;" />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 500px; height: 90px;">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 400px; height: 80px;">
   </a>
 </div>
 
