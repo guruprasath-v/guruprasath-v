@@ -35,12 +35,12 @@
 <a href="https://medium.com/@guruprasathv.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=violet&color=black" /></a>
 
 *Some of my writings may sound interesting to you:*
-<p align="center" style="display: flex; gap: 30px;">
+<p align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 400px; height: 150px;" />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 400px; height: 1500px;" />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 400px; height: 150px;">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 400px; height: 1500px;">
   </a>
 </p>
 
