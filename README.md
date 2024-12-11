@@ -37,10 +37,10 @@
 *Some of my writings may sound interesting to you:*
 <p align="center" style="display: flex; gap: 30px;">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 400px; height: 90px;" />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/0" alt="Recent Article 0" style="width: 400px; height: 150px;" />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 400px; height: 90px;">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 400px; height: 150px;">
   </a>
 </p>
 
