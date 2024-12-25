@@ -30,9 +30,17 @@
 <br />
 <br />
 
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47n1wwem44emsvkmngwgdgdpkd10zwczugi3xrfair&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30"/> ***My Toolbox***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
+<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=SQEEoDcpUD6c&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="100" /> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" width="50" height="50" />
+
+<br />
+
+
 <img src="https://media.giphy.com/media/eoNi8UexSeHwzW98B3/giphy.gif?cid=ecf05e47odylb1e9zd5cdsu53wxudns166oqpomcd95xld2g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">&nbsp;***Blogs***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### Check out my blogs at:   
 <a href="https://medium.com/@guruprasathv.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=violet&color=black" /></a>
 
@@ -45,15 +53,6 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@guruprasathv.dev/1" alt="Recent Article 1" style="width: 4000px; height: 150px;">
   </a>
 </p>
-
-<br />
-
-
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47n1wwem44emsvkmngwgdgdpkd10zwczugi3xrfair&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30"/> ***My Toolbox***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-
-<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=SQEEoDcpUD6c&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="100" /> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" width="70" /> <img src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" width="50" height="50" />
 
 <br />
 
